@@ -2,3 +2,6 @@ When the number of people involved in mining reaches more than 1000, open source
 After opening the program, enter the menu "options" and select "generate coins" to start mining.
 
 You must use public IP or set port mapping on your own route (8633)
+
+Note: if you don't get the history block in 5 minutes, see whether to Copy miner_0 to the data directory, and then restart the program
+
