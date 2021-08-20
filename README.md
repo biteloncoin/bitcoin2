@@ -5,7 +5,7 @@ You must use public IP or set port mapping on your own route (8633)
 
 Note: if you don't get the history block in 5 minutes, see whether to Copy miner_0 to the data directory, and then restart the program
 
-At present, you can mine in your own LAN
+At present, you can mine in your own LAN,Please use the latest version.
 
 Steps:
 
