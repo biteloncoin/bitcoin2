@@ -25,4 +25,7 @@ What is Bitcoin2?
 
 It was used minpow mining mode, which is a block in 5 seconds, single chain, safe, and also the longest chain calculation method. It is halved every 2.5 years, starting at 2021.8. On 2024.3, the height is 18396000, and the total amount is 18396000 * 50. It is halved from 18396001. After 23 times of halving, the total number of mining coins is 1839600000.
 
+What are the main differences between Bitcoin and Bitcoin2?
 
+1、Bitcoin2 has much lower fees and up to 150 times higher limit of transactions per second than Bitcoin.
+2、Bitcoin2 does not need mortgage mining, nor does it need professional mining machines. It can be done by an ordinary computer. Open the program and start mining, which is simple.
