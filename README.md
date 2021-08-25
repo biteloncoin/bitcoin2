@@ -29,3 +29,27 @@ What are the main differences between Bitcoin and Bitcoin2?
 
 1、Bitcoin2 has much lower fees and up to 150 times higher limit of transactions per second than Bitcoin.
 2、Bitcoin2 does not need mortgage mining, nor does it need professional mining machines. It can be done by an ordinary computer. Open the program and start mining, which is simple.
+
+Bitcoin2 technical details
+
+Bitcoin2 Overview
+
+Bitcoin2 is a community-centered cryptocurrency based on bitcoin, focusing on mining methods, speed, scalability, decentralization and real-world use.
+
+Bitcoin2 has been committed to achieving transaction speed and simple mining to maintain its status as one of the most advanced cryptocurrencies.
+
+In layman's words, bitcoin2 is basically an online digital currency, which can be easily transferred around the world in the blink of an eye, with almost no transaction costs. You can convert your money into bitcoin2, just hold it and get a reward similar to interest, trade on the exchange to buy other digital currencies, or buy goods or services online or offline later if you accept it.
+
+It is not owned or managed by any individual or organization, and its network is protected by its users' nodes around the world.
+
+The goal of bitcoin2 is to become a fast, secure and decentralized advanced digital currency.
+
+Bitcoin2 issuance and supply information
+
+The total mining volume of bitcoin2 is 1839.6 million, which is halved every 2.5 years. Initially, it is 50 coins per block, 14 blocks per minute.
+
+1-18396000 2021.8-2024.4
+
+18396001-18396000*2 2024.5-2026.11
+
+......
